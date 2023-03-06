@@ -10,6 +10,8 @@ public class ApiUtil {
 	 * @param memberList
 	 * @return
 	 */
+	
+	//아 테스트임둥!!!!!!
 	public static ArrayList getDirMember(ArrayList memberList) {
 		ArrayList returnList = new ArrayList();
 		
